@@ -1,0 +1,4 @@
+Full Name: Ghala Alali
+Student ID: 451205976
+Section: Programming and applications
+Favorite Programming Language: Swift
